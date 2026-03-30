@@ -1,16 +1,39 @@
-# React + Vite
+# 📝 Notes App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple notes application built using React and Tailwind CSS.  
+It allows users to add and delete notes with a clean and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- Add notes with title and details
+- Prevent empty title submission
+- Delete notes easily
+- Instant UI update using React state
+- Responsive layout with Tailwind CSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React (useState)
+- Tailwind CSS
+- JavaScript (ES6)
+
+---
+
+## 💡 Learning Highlights
+
+- Understanding React state (`useState`)
+- Handling forms in React
+- Using `.map()` to render lists
+- Event handling (onSubmit, onClick)
+- Array operations (push, splice, filter)
+
+## 📷 Preview
+
+<img width="1919" height="891" alt="Screenshot 2026-03-31 010105" src="https://github.com/user-attachments/assets/8fcbce22-e0ef-4894-a63b-7133156309b6" />
+
+
+---
